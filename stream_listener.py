@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from __future__ import absolute_import, print_function
 
 from tweepy.streaming import StreamListener
